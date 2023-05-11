@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to MERN Ecommerce </h1>
 
-<img src="./public/logo.jpg"/>
+<img src="./public/logo.jpg" align="right" width="300" height="300"/>
 
 
 
