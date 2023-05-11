@@ -1,9 +1,6 @@
 <h1 align="center">Welcome to MERN Ecommerce </h1>
-> SHOP.
-<img src="https://github.com/julluna/proyecto-coderhouse/blob/main/ecommerce-front/public/shop.png" />
 
-> SIGN UP.
-<img src="https://github.com/julluna/proyecto-coderhouse/blob/main/ecommerce-front/public/signup.png" />
+<img src="https://github.com/julluna/proyecto-coderhouse/blob/main/ecommerce-front/public/shop.png" />
 
 > A fullstack MERN ecommerce application with Javascript.
 
