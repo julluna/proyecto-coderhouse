@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to MERN Ecommerce </h1>
 
-<img src="./public/logo.jpg" height="100" align="center" />
+<img src="./public/logo.jpg" height="200" />
 
 
 > A fullstack MERN ecommerce application with Javascript.
